@@ -1,0 +1,21 @@
+#question{
+  background-color: #6A6D70;
+  color: #ffffff;
+  text-align: center;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 25px;
+  border: 2px solid #000000;
+  border-radius: 10px
+}
+
+#answer{
+  background-color: #6A6D70;
+  color: #ffffff;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 25px;
+  border: 2px solid #000000;
+  border-radius: 10px
+}
