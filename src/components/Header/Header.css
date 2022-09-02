@@ -1,0 +1,29 @@
+.header {
+  background-color: #ED5F18;
+  width: 100%;
+  max-width: inherit;
+  height: 80px;
+  border-bottom: 3px solid #131518;
+  position: fixed;
+  top: 0;
+  text-align: center;
+}
+
+.website-title {
+  color: #000000;
+  margin: 0;
+  margin-left: 15px;
+}
+
+.nav-item {
+  text-decoration: none;
+  color: #000000;
+}
+
+#nav-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  list-style: none;
+  margin-right: 40px;
+}
